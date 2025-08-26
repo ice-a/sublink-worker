@@ -12,7 +12,7 @@
   <br>
 
   <p>
-    <a href="https://dash.cloudflare.com/?to=/:account/workers-and-pages/create">
+    <a href="https://dash.cloudflare.com/?to=/:ice-a/workers-and-pages/create">
       <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers"/>
     </a>
   </p>
